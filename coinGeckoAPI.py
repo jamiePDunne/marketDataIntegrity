@@ -32,7 +32,7 @@ def perform_data_tests(data):
 
 
 # Specify the start date variable in months
-months_ago = 45  # Specify the number of months ago
+months_ago = 75  # Specify the number of months ago
 
 # Initialize CoinGeckoAPI
 cg = CoinGeckoAPI()
